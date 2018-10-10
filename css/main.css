@@ -57,7 +57,9 @@ a {
 img {
 	max-width:100%;
 }
-
+agilemedia {
+	max-width: 10%;
+}
 
 /*----------------------------------------------------
 	 2. Document Setup
